@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Cab</title>
+    <link>https://cablauncher.com/</link>
+    <item>
+      <title>Cab 1.1.0</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/Vessup/homebrew-tap/releases/tag/cab-v1.1.0</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/Vessup/homebrew-tap/releases/download/cab-v1.1.0/Cab.dmg" type="application/octet-stream" sparkle:edSignature="OXo/yQRK8AFKdd0dugNHeIlBK9otX53vhs2MoUC1CeXdzbV01f/77E7CwS+lfekkX5yr0REZJC9a/pVw7VAJAQ==" length="16688078"></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ekpTR/7Fs1PsuAJyuBSoPHypS5b5aKFcxe0otwBTeoJTDgajpQzvlta83/K8zQNW+rrTljW6/OB3G3mckj2VCw==
+length: 1116
+-->
