@@ -1,8 +1,8 @@
 cask "cab" do
   # The release workflow in Vessup/cab rewrites these two lines; keep each on
   # one line in this form.
-  version "1.1.0"
-  sha256 "a8f305d01d662a1490bde5a3b6ce2e927751dd7b1b4667d8feb51e0df9bf00af"
+  version "1.1.1"
+  sha256 "2a84c5d6a98183375040375bbd21ddd62d23c8b9b9b91cd3d123e6b25b2399f9"
 
   url "https://github.com/Vessup/homebrew-tap/releases/download/cab-v#{version}/Cab.dmg"
   name "Cab"
