@@ -15,19 +15,25 @@ cask "cab" do
     strategy :github_releases
   end
 
+  auto_updates true
   depends_on macos: :sonoma
 
   app "Cab.app"
 
-  uninstall quit: "com.vessupventures.cab"
+  uninstall quit: "com.cablauncher.cab"
 
   zap trash: [
     "~/Library/Application Support/Cab",
+    "~/Library/Application Support/com.cablauncher.cab",
     "~/Library/Application Support/com.vessupventures.cab",
     "~/Library/Caches/Cab",
+    "~/Library/Caches/com.cablauncher.cab",
     "~/Library/Caches/com.vessupventures.cab",
+    "~/Library/HTTPStorages/com.cablauncher.cab",
     "~/Library/HTTPStorages/com.vessupventures.cab",
+    "~/Library/Preferences/com.cablauncher.cab.plist",
     "~/Library/Preferences/com.vessupventures.cab.plist",
+    "~/Library/Saved Application State/com.cablauncher.cab.savedState",
     "~/Library/Saved Application State/com.vessupventures.cab.savedState",
   ]
 end
