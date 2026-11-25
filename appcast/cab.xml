@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Cab</title>
     <link>https://cablauncher.com/</link>
     <item>
-      <title>Cab 1.1.1</title>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <title>Cab 1.2.0</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <sparkle:fullReleaseNotesLink>https://github.com/Vessup/homebrew-tap/releases/tag/cab-v1.1.1</sparkle:fullReleaseNotesLink>
-      <enclosure url="https://github.com/Vessup/homebrew-tap/releases/download/cab-v1.1.1/Cab.dmg" type="application/octet-stream" sparkle:edSignature="+pibIu1vjyV0/VRFZlInqkUF+b4UKRss6z+f3UTcB6kytbzk8kcP6gS54qUCurZ7VZrXgfmqpFkW8Ak7w5i3Cw==" length="16702880"></enclosure>
+      <sparkle:fullReleaseNotesLink>https://github.com/Vessup/homebrew-tap/releases/tag/cab-v1.2.0</sparkle:fullReleaseNotesLink>
+      <enclosure url="https://github.com/Vessup/homebrew-tap/releases/download/cab-v1.2.0/Cab.dmg" type="application/octet-stream" sparkle:edSignature="KzP815JE9Hgf4VQAl3YpyLtMxfkxrO94pT95mpVdjX6+uSI6pU1sfIMd0oD+V+0UOQBVfXtwuI3NTh2NUfcPDg==" length="19437030"></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ghImANvG+g8HQU/TTI7Lz0uQofhojhgXgznHCBiD1PH4bL21MSey3mev1ZPU/ulsTgUSwG2bwTjje4wN5DDiCA==
+edSignature: QbS79DHReCKbychXfFSKD99h6nK33G/OGh3mVCuWoCJ66bNni0a2PZWiSoPGkEGtUEs5r/xk1fFuZ+rg7v43BQ==
 length: 1116
 -->
